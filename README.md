@@ -36,3 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 <!-- 2026-05-25T20:55:00 db: SQLite database schema and migration script for anime list -->
+
+<!-- 2026-05-27T12:45:00 core: Anilist GraphQL client for media query and metadata fetching -->
