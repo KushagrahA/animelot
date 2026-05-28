@@ -42,3 +42,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-05-27T16:50:00 core: search debounce hook and query cache -->
 
 <!-- 2026-05-27T18:20:00 ui: responsive navigation bar with search bar and user avatar -->
+
+<!-- 2026-05-28T10:15:00 ui: progressive image loading and shimmer animation -->
