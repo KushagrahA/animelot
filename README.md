@@ -44,3 +44,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-05-27T18:20:00 ui: responsive navigation bar with search bar and user avatar -->
 
 <!-- 2026-05-28T10:15:00 ui: progressive image loading and shimmer animation -->
+
+<!-- 2026-05-28T12:45:00 ui: media card component with hover zoom and rating badge -->
