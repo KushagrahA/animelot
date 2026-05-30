@@ -54,3 +54,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-05-29T16:50:00 test: verify zero layout shift (CLS < 0.05) on render -->
 
 <!-- 2026-05-30T12:45:00 feat: personal watch-list status tracking (watching, completed, plan) -->
+
+<!-- 2026-05-30T22:10:00 feat: episode progress counter with +1 quick increment button -->
