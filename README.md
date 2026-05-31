@@ -62,3 +62,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-05-31T16:50:00 ui: character gallery with voice actor thumbnails -->
 
 <!-- 2026-05-31T20:55:00 feat: seasonal anime explorer with genre filter chips -->
+
+<!-- 2026-05-31T22:10:00 feat: filter by studio, airing status and season year -->
