@@ -76,3 +76,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-04T16:50:00 analytics: user statistics dashboard (episodes watched, genres) -->
 
 <!-- 2026-06-04T20:55:00 analytics: interactive pie chart for favorite genre distribution -->
+
+<!-- 2026-06-04T22:10:00 ui: sleek dark theme with purple and violet neon accents -->
