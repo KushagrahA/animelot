@@ -72,3 +72,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-04T14:10:00 perf: server-side caching of seasonal anime queries (ISR 1hr) -->
 
 <!-- 2026-06-04T15:35:00 test: integration test for complex multi-filter queries -->
+
+<!-- 2026-06-04T16:50:00 analytics: user statistics dashboard (episodes watched, genres) -->
