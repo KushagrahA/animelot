@@ -78,3 +78,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-04T20:55:00 analytics: interactive pie chart for favorite genre distribution -->
 
 <!-- 2026-06-04T22:10:00 ui: sleek dark theme with purple and violet neon accents -->
+
+<!-- 2026-06-06T10:15:00 ui: custom scrollbars and smooth page transition animations -->
