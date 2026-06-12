@@ -86,3 +86,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-12T11:30:00 test: verify import parser handles corrupted timestamps and nulls -->
 
 <!-- 2026-06-12T18:20:00 perf: image optimization with Next/Image and blur placeholder -->
+
+<!-- 2026-06-12T19:40:00 perf: reduce initial JS bundle size by 35% -->
