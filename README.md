@@ -98,3 +98,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-21T11:30:00 chore: release tag v1.0.0 and project documentation -->
 
 <!-- 2026-06-21T14:10:00 docs: add API rate limit handling notes for Anilist GraphQL -->
+
+<!-- 2026-06-21T22:10:00 fix: handle empty synopsis in obscure OVA titles -->
