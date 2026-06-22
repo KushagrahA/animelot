@@ -108,3 +108,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-22T16:50:00 perf: enable gzip and brotli compression on API routes -->
 
 <!-- 2026-06-22T19:40:00 fix: prevent image layout jump on dynamic aspect ratios -->
+
+<!-- 2026-06-22T20:55:00 init: Next.js 14 project setup with App Router and Tailwind -->
