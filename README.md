@@ -116,3 +116,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-27T15:35:00 core: Anilist GraphQL client for media query and metadata fetching -->
 
 <!-- 2026-06-27T16:50:00 core: search debounce hook and query cache -->
+
+<!-- 2026-06-27T20:55:00 ui: responsive navigation bar with search bar and user avatar -->
