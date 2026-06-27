@@ -114,3 +114,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-22T22:10:00 db: SQLite database schema and migration script for anime list -->
 
 <!-- 2026-06-27T15:35:00 core: Anilist GraphQL client for media query and metadata fetching -->
+
+<!-- 2026-06-27T16:50:00 core: search debounce hook and query cache -->
