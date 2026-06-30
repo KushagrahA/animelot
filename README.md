@@ -124,3 +124,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-06-29T19:40:00 ui: media card component with hover zoom and rating badge -->
 
 <!-- 2026-06-29T22:10:00 perf: preload above-the-fold media cover posters -->
+
+<!-- 2026-06-30T14:10:00 ui: skeleton loader states for smooth loading transitions -->
