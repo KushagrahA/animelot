@@ -132,3 +132,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-03T10:15:00 feat: personal watch-list status tracking (watching, completed, plan) -->
 
 <!-- 2026-07-03T12:45:00 feat: episode progress counter with +1 quick increment button -->
+
+<!-- 2026-07-03T15:35:00 ui: anime detail page with banner header, synopsis, and staff -->
