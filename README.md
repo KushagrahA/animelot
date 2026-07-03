@@ -134,3 +134,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-03T12:45:00 feat: episode progress counter with +1 quick increment button -->
 
 <!-- 2026-07-03T15:35:00 ui: anime detail page with banner header, synopsis, and staff -->
+
+<!-- 2026-07-03T16:50:00 ui: character gallery with voice actor thumbnails -->
