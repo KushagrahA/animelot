@@ -156,3 +156,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-05T22:10:00 ui: sleek dark theme with purple and violet neon accents -->
 
 <!-- 2026-07-10T18:20:00 ui: custom scrollbars and smooth page transition animations -->
+
+<!-- 2026-07-10T20:55:00 data: import/export watch history to MyAnimeList & AniList JSON -->
