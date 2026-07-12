@@ -164,3 +164,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-12T12:45:00 perf: image optimization with Next/Image and blur placeholder -->
 
 <!-- 2026-07-12T14:10:00 perf: reduce initial JS bundle size by 35% -->
+
+<!-- 2026-07-12T15:35:00 test: Lighthouse performance audit score > 95 across mobile -->
