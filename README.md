@@ -170,3 +170,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-12T16:50:00 ui: final UI polish, dark theme palette adjustments -->
 
 <!-- 2026-07-12T18:20:00 docs: update README with live deployment link and badges -->
+
+<!-- 2026-07-13T11:30:00 chore: release tag v1.0.0 and project documentation -->
