@@ -176,3 +176,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-13T12:45:00 docs: add API rate limit handling notes for Anilist GraphQL -->
 
 <!-- 2026-07-13T16:50:00 fix: handle empty synopsis in obscure OVA titles -->
+
+<!-- 2026-07-21T14:10:00 ui: add keyboard navigation (arrow keys) in search dropdown -->
