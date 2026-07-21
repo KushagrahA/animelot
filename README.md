@@ -180,3 +180,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-21T14:10:00 ui: add keyboard navigation (arrow keys) in search dropdown -->
 
 <!-- 2026-07-21T16:50:00 feat: shareable profile cards with user anime tier list -->
+
+<!-- 2026-07-21T19:40:00 perf: enable gzip and brotli compression on API routes -->
