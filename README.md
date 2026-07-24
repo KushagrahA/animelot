@@ -182,3 +182,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-21T16:50:00 feat: shareable profile cards with user anime tier list -->
 
 <!-- 2026-07-21T19:40:00 perf: enable gzip and brotli compression on API routes -->
+
+<!-- 2026-07-24T18:20:00 fix: prevent image layout jump on dynamic aspect ratios -->
