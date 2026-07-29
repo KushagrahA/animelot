@@ -198,3 +198,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-28T18:20:00 ui: progressive image loading and shimmer animation -->
 
 <!-- 2026-07-28T20:55:00 ui: media card component with hover zoom and rating badge -->
+
+<!-- 2026-07-29T10:15:00 perf: preload above-the-fold media cover posters -->
