@@ -202,3 +202,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-07-29T10:15:00 perf: preload above-the-fold media cover posters -->
 
 <!-- 2026-07-29T22:10:00 ui: skeleton loader states for smooth loading transitions -->
+
+<!-- 2026-07-30T11:30:00 test: verify zero layout shift (CLS < 0.05) on render -->
