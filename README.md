@@ -220,3 +220,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-08-03T10:15:00 feat: sort by popularity, score, release year and trending -->
 
 <!-- 2026-08-03T11:30:00 perf: stale-while-revalidate caching on search queries -->
+
+<!-- 2026-08-03T14:10:00 perf: server-side caching of seasonal anime queries (ISR 1hr) -->
