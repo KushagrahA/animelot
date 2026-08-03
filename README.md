@@ -218,3 +218,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-08-01T19:40:00 feat: filter by studio, airing status and season year -->
 
 <!-- 2026-08-03T10:15:00 feat: sort by popularity, score, release year and trending -->
+
+<!-- 2026-08-03T11:30:00 perf: stale-while-revalidate caching on search queries -->
