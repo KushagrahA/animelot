@@ -216,3 +216,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-08-01T18:20:00 feat: seasonal anime explorer with genre filter chips -->
 
 <!-- 2026-08-01T19:40:00 feat: filter by studio, airing status and season year -->
+
+<!-- 2026-08-03T10:15:00 feat: sort by popularity, score, release year and trending -->
