@@ -236,3 +236,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-08-15T11:30:00 data: import/export watch history to MyAnimeList & AniList JSON -->
 
 <!-- 2026-08-15T18:20:00 test: verify import parser handles corrupted timestamps and nulls -->
+
+<!-- 2026-08-16T18:20:00 perf: image optimization with Next/Image and blur placeholder -->
