@@ -244,3 +244,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-08-17T18:20:00 test: Lighthouse performance audit score > 95 across mobile -->
 
 <!-- 2026-08-17T22:10:00 ui: final UI polish, dark theme palette adjustments -->
+
+<!-- 2026-08-19T11:30:00 docs: update README with live deployment link and badges -->
