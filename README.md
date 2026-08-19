@@ -248,3 +248,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- 2026-08-19T11:30:00 docs: update README with live deployment link and badges -->
 
 <!-- 2026-08-19T15:35:00 chore: release tag v1.0.0 and project documentation -->
+
+<!-- 2026-08-19T19:40:00 docs: add API rate limit handling notes for Anilist GraphQL -->
